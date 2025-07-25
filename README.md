@@ -155,5 +155,5 @@ docker-compose up --build
 <hr>
 
 <h2>9. Contact</h2>
-<p>For questions or contributions, contact <strong>Mark Ian C. Ebuen</strong> at <a href="mailto:markianebuen@gmail.com">markianebuen@gmail.com</a>.</p>
+<p>For questions or contributions, contact <strong>Mark Ian C. Ebuen</strong> at <a href="mailto:your.markianebuen@gmail.com">markianebuen@gmail.com</a>.</p>
 
